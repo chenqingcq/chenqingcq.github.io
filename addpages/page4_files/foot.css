@@ -1,0 +1,45 @@
+/*
+来自星星的美女程序员，2016/04/18
+*/
+.flg li,.fgyk,.flxdh,.fzdxtb li{ background:url("../img/fv.png")/*tpa=src="./addpagesddpages/img/fv.png*/ no-repeat}
+.footb{border-top: 8px solid #F1F1F1; width:100%; overflow:hidden; margin:30px 0;} 
+.fm{ width:1170px; margin:0 auto;}
+.ftop{ overflow:hidden; margin:0 0 20px 0;}
+.flg{ float: left; width: 229px;border-right: 1px solid #ddd;}
+.flg li{ width:220px; height:78px; margin:10px 0 0 0;}
+.flg li:nth-of-type(1){ background-position:0 0;}
+.flg li:nth-of-type(1) a{ width:220px; height:78px; display:block;}
+.flg li:nth-of-type(1):hover{ background-position:0 -88px;}
+.flg li:nth-of-type(2){background-position:0 -176px; height:106px;}
+.flg li:nth-of-type(2) a{ width:220px; height:96px; display:block;}
+.flg li:nth-of-type(2):hover{background-position:0 -282px; height:106px;}
+.fgyk{border-right: 1px solid #ddd;float: left;height: 192px;width: 235px; }
+.fgyk ul{ padding:50px 0 0 150px;}
+.fgyk ul li{ color:#bdbdbd; font-size:14px; line-height:26px; height:26px;}
+.fgyk ul li a{ color:#bdbdbd;}
+.fgyk ul li a:hover{ color:#bb8935;}
+.fgywm{background-position:-314px 70px;}
+.fkssz{background-position:-314px -77px;}
+.fdzfw{background-position:-314px -235px;}
+.fdzfw ul{padding:30px 0 0 150px;}
+.fewm{float: left;height: 192px;width: 232px;}
+.fewm img{height: 192px;width: 232px;}
+.flxdh{ width:331px; height:47px; margin:20px auto; background-position:0 -446px;}
+.flxdh a{ width:331px; height:47px; display: block;}
+.fzdxtb{ width:371px; height:41px; margin:0 auto;}
+.fzdxtb li{ width:41px; height:41px; overflow:hidden; display:block; float:left; margin:0 6px;}
+.fzdxtb li a{ width:41px; height:41px; display:block;}
+.xzxyy {background-position:0px -509px !important;}
+.xwx {background-position:-41px -509px !important;}
+.xwb {background-position:-82px -509px !important;}
+.xqq {background-position:-123px -509px !important;}
+.xdz {background-position:-164px -509px !important;}
+.xrl {background-position:-205px -509px !important;}
+.xzy {background-position:-246px -509px !important;}
+.xzxyy:hover {background-position:0px -551px !important;}
+.xwx:hover {background-position:-41px -551px !important;}
+.xwb:hover {background-position:-82px -551px !important;}
+.xqq:hover {background-position:-123px -551px !important;}
+.xdz:hover {background-position:-164px -551px !important;}
+.xrl:hover {background-position:-205px -551px !important;}
+.xzy:hover {background-position:-246px -551px !important;}

@@ -1,0 +1,450 @@
+html {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+body {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+div {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+span {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+applet {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+object {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+iframe {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+p {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+blockquote {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+pre {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+a {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+abbr {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+acronym {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+address {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+big {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+cite {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+code {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+del {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+dfn {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+em {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+font {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+img {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+ins {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+kbd {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+q {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+s {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+samp {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+small {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+strike {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+strong {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+sub {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+sup {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+tt {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+var {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+dl {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+dt {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+dd {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+ol {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+ul {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+li {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+fieldset {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+form {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+label {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+legend {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+table {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+caption {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+tbody {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+tfoot {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+thead {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+tr {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+th {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+td {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+body {
+	font: 14px/1.5 "Microsoft YaHei", "Microsoft JhengHei", ����, STHeiti, MingLiu; font-size-adjust: none; font-stretch: normal;
+}
+button {
+	font: 14px/1.5 "Microsoft YaHei", "Microsoft JhengHei", ����, STHeiti, MingLiu; font-size-adjust: none; font-stretch: normal;
+}
+input {
+	font: 14px/1.5 "Microsoft YaHei", "Microsoft JhengHei", ����, STHeiti, MingLiu; font-size-adjust: none; font-stretch: normal;
+}
+select {
+	font: 14px/1.5 "Microsoft YaHei", "Microsoft JhengHei", ����, STHeiti, MingLiu; font-size-adjust: none; font-stretch: normal;
+}
+textarea {
+	font: 14px/1.5 "Microsoft YaHei", "Microsoft JhengHei", ����, STHeiti, MingLiu; font-size-adjust: none; font-stretch: normal;
+}
+ul {
+	list-style: none;
+}
+ol {
+	list-style: none;
+}
+li {
+	list-style: none;
+}
+a {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+img {
+	border: 0px currentColor; border-image: none; vertical-align: top;
+}
+.clearfix::after {
+	display: table; content: "";
+}
+.clear::before {
+	display: table; content: "";
+}
+.clearfix::after {
+	overflow: hidden; clear: both;
+}
+.clearfix {
+	-ms-zoom: 1;
+}
+.fl {
+	float: left;
+}
+.fr {
+	float: right;
+}
+#Top {
+	width: 100%; box-shadow: 0px 0px 8px #ccc; -webkit-box-shadow: 0 0 8px #ccc; -moz-box-shadow: 0 0 8px #ccc;
+}
+#Top .top {
+	background: rgb(76, 32, 77); margin: 0px auto; width: 100%; height: 41px;
+}
+#Top .top .head {
+	margin: 0px auto; width: 1248px; height: 41px; color: rgb(246, 205, 145); line-height: 41px; overflow: hidden; font-family: "Microsoft YaHei"; font-size: 14px;
+}
+#Top .top .head a {
+	color: rgb(246, 205, 145);
+}
+#Top .top .head span {
+	text-align: center; color: rgb(246, 205, 145); line-height: 41px; padding-right: 10px; font-family: "Microsoft YaHei"; font-size: 14px; float: right;
+}
+#Top .addr {
+	width: 86px; height: 35px; text-align: right; line-height: normal; padding-top: 6px; float: right;
+}
+#Top .addr select {
+	background: rgb(76, 32, 77); padding: 1px 8px; border-radius: 26px; border: 1px solid rgb(246, 205, 145); border-image: none; width: 85px; height: 26px; color: rgb(246, 205, 145); -webkit-border-radius: 26px; -moz-border-radius: 26px; -o-border-radius: 26px;
+}
+#Top .phoneIcon {
+	top: -1px; width: 16px; height: 15px; margin-right: 9px; display: inline-block; position: relative;
+}
+#Top .phoneIcon img {
+	width: 100%; height: 100%; line-height: 0; vertical-align: middle;
+}
+#Top .tsIcon {
+	top: -1px; width: 16px; height: 12px; margin-right: 9px; margin-left: 16px; display: inline-block; position: relative;
+}
+#Top .tsIcon img {
+	width: 100%; height: 100%; line-height: 0; vertical-align: middle;
+}
+#Top .clear::after {
+	clear: both; display: block; content: "";
+}
+#Top .lf {
+	float: left;
+}
+#Top .rt {
+	float: right;
+}
+#Top .box {
+	box-sizing: border-box; -ms-box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; -o-box-sizing: border-box;
+}
+#Top .TOPNAVBOX {
+	background-color: rgb(255, 255, 255);
+}
+#Top .TOPNAV {
+	margin: 0px auto; width: 1248px;
+}
+#Top .TOPPIC {
+	width: 322px; height: 53px; line-height: 0; padding-top: 25px; padding-bottom: 22px;
+}
+#Top .TOPPIC img {
+	width: 100%; height: 100%; vertical-align: middle;
+}
+#Top .TOPLIST {
+	padding-top: 24px;
+}
+#Top .TOPLIST .ITEM {
+	padding: 0px 25px; height: 48px; color: rgb(51, 51, 51); line-height: 48px; font-size: 16px; position: relative; background-color: rgb(255, 255, 255);
+}
+#Top .TOPLIST .ITEM a {
+	color: rgb(51, 51, 51);
+}
+#Top .TOPLIST .ITEM:hover {
+	color: rgb(255, 255, 255); background-color: rgb(248, 166, 50);
+}
+#Top .TOPLIST .ITEM:hover a {
+	color: rgb(255, 255, 255);
+}
+#Top .TOPLIST .TOPCHILD {
+	border-radius: 5px; left: 0px; top: 48px; width: 100%; padding-top: 1px; display: none; position: absolute; z-index: 2; background-color: rgb(255, 254, 253);
+}
+#Top .TOPLIST .ITEM:hover .TOPCHILD {
+	display: block;
+}
+#Top .TOPLIST .TOPCHILD .CITEM {
+	height: 52px; text-align: center; line-height: 52px; font-size: 14px; border-top-color: rgb(238, 238, 238); border-top-width: 1px; border-top-style: solid;
+}
+#Top .TOPLIST .TOPCHILD .CITEM a {
+	color: rgb(51, 51, 51);
+}
+#Top .TOPLIST .TOPCHILD .CITEM:hover a {
+	color: rgb(255, 255, 255);
+}
+#Top .TOPLIST .TOPCHILD .CITEM:hover {
+	background-color: rgb(248, 166, 50);
+}
+#Top .HOTICON {
+	top: 14px; width: 9px; height: 11px; right: 13px; line-height: 0; position: absolute;
+}
+#Top .HOTICON img {
+	width: 100%; height: 100%; vertical-align: middle;
+}
+#Top .header {
+	background: rgb(255, 255, 255); width: 100%; height: 85px; text-align: center;
+}
+#Top .nav_fixed {
+	top: 0px; position: fixed; z-index: 100; box-shadow: 0px 1px 5px #666666; -webkit-box-shadow: 0px 1px 5px #666666; -moz-box-shadow: 0px 1px 5px #666666;
+}
+#Top .header .header-con {
+	margin: 0px auto; width: 1200px; height: 85px;
+}
+#Top .header .logo {
+	width: 396px; height: 68px; text-align: left; padding-top: 8px; float: left;
+}
+#Top .header .nav {
+	width: 804px; height: 85px; line-height: 85px; font-family: "Microsoft YaHei"; font-size: 16px; float: right;
+}
+#Top .header .nav ul.nav_list li {
+	padding: 0px 22px; text-align: center; font-weight: 500; float: left; position: relative;
+}
+#Top .header .nav li a {
+	color: rgb(51, 51, 51); text-decoration: none; display: block;
+}
+#Top .header .nav ul li a:hover {
+	color: rgb(170, 129, 70); font-weight: bold; border-bottom-color: rgb(170, 129, 70); border-bottom-width: 3px; border-bottom-style: solid;
+}
+#Top .header .nav ul li .menu {
+	background: rgb(61, 57, 53); padding: 22px; left: 0px; top: 86px; height: auto; display: none; position: absolute; z-index: 9999; opacity: 0.9; -moz-opacity: 0.9;
+}
+#Top .header .nav ul li .lf {
+	left: -206px;
+}
+#Top .header .nav ul li .menu .m_l {
+	float: left;
+}
+#Top .header .nav ul li .menu .m_l a {
+	height: 35px; color: rgb(255, 255, 255); line-height: 35px; font-size: 14px; display: block;
+}
+#Top .header .nav ul li .menu .m_l a:hover {
+	border: currentColor; border-image: none; color: rgb(170, 129, 70); font-weight: 100;
+}
+#Top .header .nav ul li .menu .m_r {
+	float: right;
+}
+#footer {
+	width: 100%; height: 195px; clear: both; font-family: microsoft yahei; font-weight: 100; margin-bottom: -53px; background-color: rgb(83, 47, 85);
+}
+.footericonbg {
+	width: 100%; height: 18px; background-image: url("../image/footerlbg.jpg")/*tpa=/6years/image/footerlbg.jpg*/;
+}
+.footer-content {
+	margin: 10px auto; padding: 5px 0px; width: 980px; text-align: left; color: rgb(208, 196, 208); line-height: 22px; font-size: 12px; border-top-color: rgb(111, 82, 112); border-bottom-color: rgb(111, 82, 112); border-top-width: 1px; border-bottom-width: 1px; border-top-style: solid; border-bottom-style: solid;
+}
+.footer-content a {
+	padding: 0px 20px; color: rgb(209, 195, 209); line-height: 165%; font-size: 12px;
+}
+.footer-copyright {
+	margin: 0px auto; width: 980px; text-align: left; color: rgb(209, 195, 209); line-height: 175%; padding-left: 32px; font-size: 12px;
+}
+.footer-copyright a {
+	color: rgb(209, 195, 209); line-height: 165%; font-size: 12px;
+}
+.bot-info {
+	background: url("../../image/bottomFixed.png")/*tpa=/image/bottomFixed.png*/ no-repeat center; left: 0px; width: 100%; height: 137px; bottom: 0px; position: fixed; z-index: 100; _position: absolute; _bottom: auto;
+}
+.bot-info .bot-rel {
+	margin: 0px auto; width: 1185px; height: 137px; position: relative;
+}
+.bot-info .bot-rel .zxan {
+	width: 118px; height: 35px; right: 154px; bottom: 12px; position: absolute; cursor: pointer;
+}
+.bot-info .bot-rel .mxkh {
+	width: 118px; height: 35px; right: 0px; bottom: 12px; position: absolute; cursor: pointer;
+}
+.jybox {
+	left: 0px; width: 100%; height: 53px; bottom: 0px; position: fixed; z-index: 99; _position: absolute; _bottom: auto;
+}
+.jycon {
+	margin: 0px auto; left: 0px; top: 0px; width: 1000px; height: 53px; position: relative; z-index: 202;
+}
+.jyleft {
+	width: 215px; margin-left: 5px; float: left; display: inline-block; _margin-left: 0px;
+}
+.jyleft p {
+	color: rgb(255, 255, 255); font-family: ????, Verdana, Geneva, sans-serif; font-size: 40px; font-weight: bold;
+}
+.jyright {
+	padding: 0px 0px 0px 1px; width: 775px; height: 53px; line-height: 53px; margin-top: 0px; float: left; display: inline-block; _padding-left: -3px;
+}
+.jyright1 {
+	padding: 5px 0px 0px 1px; width: 580px; height: 53px; line-height: 53px; margin-top: 0px; float: left;
+}
+.jybg {
+	background: url("../image/footerbg.jpg")/*tpa=/6years/image/footerbg.jpg*/ rgb(54, 27, 55); left: 0px; top: 0px; width: 100%; height: 53px; position: absolute; z-index: 201; opacity: 0.8; -moz-opacity: .80;
+}
+.floating_ck {
+	top: 30%; right: 20px; position: fixed; z-index: 99999;
+}
+.floating_ck dl dd {
+	background-position: center 20%; width: 60px; height: 60px; text-align: center; font-family: microsoft yahei; margin-bottom: 6px; border-bottom-color: rgb(75, 32, 77); border-bottom-width: 1px; border-bottom-style: solid; position: relative; z-index: 30; cursor: pointer; background-repeat: no-repeat; background-color: rgb(101, 56, 101);
+}
+.floating_ck dl dd:hover {
+	border-bottom-color: rgb(75, 32, 77); border-bottom-width: 1px; border-bottom-style: solid; background-color: rgb(75, 32, 77);
+}
+.floating_ck dl dd:hover .floating_left {
+	display: block;
+}
+.consult {
+	position: relative; z-index: 1; background-image: url("../image/and/aside_zixun.png")/*tpa=/6years/image/and/aside_zixun.png*/;
+}
+.words {
+	background-image: url("../image/and/aside_canguan.png")/*tpa=/6years/image/and/aside_canguan.png*/;
+}
+.quote {
+	background-image: url("../image/and/aside_rexian.png")/*tpa=/6years/image/and/aside_rexian.png*/;
+}
+.qrcord {
+	background-image: url("../image/and/aside_weixin.png")/*tpa=/6years/image/and/aside_weixin.png*/;
+}
+.return {
+	background-image: url("../image/and/side_top.png")/*tpa=/6years/image/and/side_top.png*/;
+}
+.floating_ck dd span {
+	color: rgb(255, 255, 255); padding-top: 40px; font-size: 12px; display: block;
+}
+.floating_left {
+	left: -160px; top: 0px; width: 160px; height: 60px; border-bottom-color: rgb(75, 32, 77); border-bottom-width: 1px; border-bottom-style: solid; display: none; position: absolute; background-color: rgb(75, 32, 77);
+}
+.floating_left a {
+	color: rgb(255, 255, 255); line-height: 47px;
+}
+.floating_ewm {
+	top: -180px; height: 247px;
+}
+.floating_ewm i {
+	margin: 7px auto auto; width: 145px; height: 145px; display: block; background-image: url("../image/and/weixin_img2.png")/*tpa=/6years/image/and/weixin_img2.png*/;
+}
+.floating_ewm p {
+	color: rgb(255, 255, 255); margin-top: 5px;
+}
+.floating_ewm .qrcord_p01 {
+	line-height: 20px; font-size: 12px;
+}
+.floating_ewm .qrcord_p02 {
+	font-size: 18px;
+}
+.consult .shuzi {
+	background: rgb(231, 41, 124); border-radius: 14px; top: 1px; width: 26px; height: 16px; text-align: center; right: 3px; color: rgb(255, 255, 255); line-height: 16px; font-size: 12px; position: absolute; -webkit-border-radius: 14px; -moz-border-radius: 14px; behavior: url("../image/and/ie-css3.htc")/*tpa=/6years/image/and/ie-css3.htc*/;
+}

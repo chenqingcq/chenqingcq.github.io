@@ -1,0 +1,72 @@
+/*
+来自星星的美女程序员，2016/04/18
+*/
+.headt{ width:100%; overflow:hidden;min-width:1920px;}
+.headt .hm{ width:1170px; margin:0 auto; }
+.headt .hl{ float:left; width:150px; height:74px;}
+.headt .hl img{width:150px; height:74px;}
+.headt .hl{position: relative;display: block;/* overflow: hidden; */box-shadow: 0 0 10px #FFF;}
+.headt .hl p{cursor:pointer;position: absolute;left: -200px;top: 0;width: 180px;height: 90px;
+background-image: -moz-linear-gradient(0deg,rgba(255,255,255,0),rgba(255,255,255,0.5),rgba(255,255,255,0));
+background-image: -webkit-linear-gradient(0deg,rgba(255,255,255,0),rgba(255,255,255,0.5),rgba(255,255,255,0));transform: skewx(-25deg);-o-transform: skewx(-25deg);-moz-transform: skewx(-25deg);-webkit-transform: skewx(-25deg);}
+.headt .hl:hover p{left:180px;-moz-transition:0.5s;-o-transition:0.5s;-webkit-transition:0.5s;transition:0.5s;}
+.headt .hr{ float:left; margin:20px 0 0 110px; width:650px;}
+.headt .hr li{ float:left; font-size:16px; color:#B87F1B; padding:0 10px; height:40px; line-height:40px; background:url("../img/ybhx.png")/*tpa=src="./addpagesddpages/img/ybhx.png*/ no-repeat right top;}
+.headt .hr li:nth-of-type(6){background: none !important;padding-left: 20px}
+.headt .hr li a{ color:#B87F1B;}
+.headt .hr li h3{ padding:0 10px;}
+.headt .hdh { height:74px; width:260px; float:left;}
+.headt .hdh a{ height:74px; width:260px; display:block;}
+.headt .tbg{ position:absolute; top:60px; left:0; width:100%; background-color:#F6F6F9; overflow:hidden; box-shadow: 3px 3px 3px  #AFAFAF; z-index:999;	}
+.headt .pz dl{ width:930px; overflow:hidden; margin:0 auto; padding:30px 0; }
+.headt .pz dl dt{ float:left; width:69px; margin-right:60px;}
+.headt .pz dl dt h4{ width:69px; height:69px; display:block; cursor:pointer;}
+.headt .pz .js h4,.pz .dt h4,.pz .hd h4,.pz .hj h4,.pz .sb h4,.pz .hy h4,.yl .ck h4,.yl .fk h4,.yl .ek h4,.yl .jz h4{ background:url("../img/hy.png")/*tpa=src="./addpagesddpages/img/hy.png*/}
+.headt .pz,.yl,.zj,.ts { overflow:hidden; display:none;}
+.hr li:hover div{ display:block;}
+
+.hr li:hover  h3{ background:#F6F6F9; color:#bb8935;}
+.hr li:hover  h3 a{ background:#F6F6F9; color:#bb8935;}
+.headt .pz .js h4{ background-position:-79px 0px;}
+.headt .pz .js:hover h4{ background-position:0px 0px;}
+.headt .pz .dt h4{ background-position:-238px 0px;}
+.headt .pz .dt:hover h4{ background-position:-158px 0px;}
+.headt .pz .hj h4{ background-position:-394px 0px;}
+.headt .pz .hj:hover h4{ background-position:-316px 0px;}
+.headt .pz .hd h4{ background-position:-552px 0px;}
+.headt .pz .hd:hover h4{ background-position:-474px 0px;}
+.headt .pz .sb h4{ background-position:-710px 0px;}
+.headt .pz .sb:hover h4{ background-position:-632px 0px;}
+.headt .pz .hy h4{ background-position:-868px 0px;}
+.headt .pz .hy:hover h4{ background-position:-790px 0px;}
+.headt .yl dl{ width:1000px; overflow:hidden; margin:0 auto; padding:30px 0 30px 900px;  }
+.headt .yl dl dt{ float:left; width:69px; margin-right:60px;}
+.headt .yl dl dt h4{ width:69px; height:69px; display:block; cursor:pointer;}
+.headt .yl .ck h4{ background-position:-1026px 0px;}
+.headt .yl .ck:hover h4{ background-position:-947px 0px;}
+.headt .yl .fk h4{ background-position:-1183px 0px;}
+.headt .yl .fk:hover h4{ background-position:-1105px 0px;}
+.headt .yl .ek h4{ background-position:-1340px 0px;}
+.headt .yl .ek:hover h4{ background-position:-1262px 0px;}
+.headt .yl .jz h4{ background-position:-1498px 0px;}
+.headt .yl .jz:hover h4{ background-position:-1419px 0px;}
+.headt .zj dl{ width:1000px; overflow:hidden; margin:0 auto; padding:30px 0 30px 150px;  }
+.headt .zj dl dt{ float:left;width:230px; margin-right:5px;}
+.headt .zj dl dt h4{ width:230px; height:130px; overflow:hidden;}
+.headt .zj dl dt h4 img{ width:230px; height:170px;}
+.headt .zj dl dt p{  background:url("../img/zjbtbg.png")/*tpa=src="./addpagesddpages/img/zjbtbg.png*/ no-repeat; height:70px; border-top: 2px solid #D0A972; text-align:center; line-height:73px;}
+.headt .ts dl{ width:1000px; overflow:hidden; margin:0 auto; padding:30px 0 30px 150px;  }
+.headt .ts dl dt{ float:left;width:230px; margin-right:5px;}
+.headt .ts dl dt h4{ width:230px; height:130px; overflow:hidden;}
+.headt .ts dl dt h4 img{ width:230px; min-height:130px;}
+.headt .ts dl dt p{ height:30px; border-top: 2px solid #D0A972; text-align:center; line-height:30px; padding-bottom:30px; background:url("../img/tsxb.png")/*tpa=src="./addpagesddpages/img/tsxb.png*/; background-position:-5px -5px;}
+
+.hjbg{ background:#b87f1b;}
+.hjbg .hr li h3{ color:#FFF;}
+.hjbg .hr li h3 a{ color:#FFF;}
+.hjbg .hr li{background:url("../img/ybhx2.png")/*tpa=src="./addpagesddpages/img/ybhx2.png*/ no-repeat right top;}
+.hjbg .hl p{ display:none;}
+.hjbg .hl{position: relative;display: block;/* overflow: hidden; */box-shadow: 0 0 0 #FFF;}
+.hjbg .hr li:hover  h3{ background:#F6F6F9; color:#bb8935;}
+.hjbg .hr li:hover  h3 a{ background:#F6F6F9; color:#bb8935;}
+ 

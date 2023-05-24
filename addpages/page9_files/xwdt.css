@@ -1,0 +1,29 @@
+.xwdt{width: 100%;background:#F4F4F4 url("../img/bg.jpg")/*tpa=ddpages/img/bg.jpg*/ no-repeat 0 600px;}
+.dtnr{ overflow:hidden; padding-top:40px;}
+.dtnr .zjsj{ width:86px; height:86px; display:block; margin:0 auto; background:url("../img/dtsy.png")/*tpa=ddpages/img/dtsy.png*/ no-repeat;}
+.dtnr .list{overflow:hidden; }
+.dtnr .list ul{ overflow:hidden;background:url("../img/zjsx.jpg")/*tpa=ddpages/img/zjsx.jpg*/ repeat-y center center;}
+.dtnr .list ul li{ position:relative; overflow:hidden; margin-bottom:50px;}
+.dtnr .list .sj{color: #c8925e;font-size: 22px; width:250px; overflow:hidden; position:absolute; left:50%; top:20px; margin-left:-142px;}
+.dtnr .list .yqx{border-top:1.5px dashed #c8925e; width:350px;position:absolute; left:50%; top:159px; margin-left:-337px;}
+.dtnr .list .yqx h2{ height:26px; width:26px; display:block; background:url("../img/dtsy.png")/*tpa=ddpages/img/dtsy.png*/ no-repeat -29px -92px; float:right; margin-top:-14px;}
+.dtnr .list .pic{ background:#c8925e; width:249px; height:249px;border-radius: 50%; float:left;;}
+.dtnr .list .pic h2{ margin:16px; overflow:hidden;border-radius: 50%;width:217px; min-height:217px;height:217px;}
+.dtnr .list .pic h2 img{ width:217px; min-height:217px;border-radius: 50%;}
+.dtnr .list .tex{ float:right; border:#CCCCCC 1px solid; height:120px; width:410px; padding:20px 50px; background:#FFF; margin-top:85px;position:relative;}
+.dtnr .list .tex h3{color: #a8c9e4;font-size: 16px; text-align:center; border-bottom:#CCCCCC solid 1px; padding-bottom:10px; margin-bottom:15px;}
+.dtnr .list .tex h3 a{color: #c8925e;}
+.dtnr .list .tex p{ line-height:24px;}
+.dtnr .list .tex span{ height:23px; width:13px; display:block; background:url("../img/dtsy.png")/*tpa=ddpages/img/dtsy.png*/ no-repeat 0 -112px; position:absolute; left:-13px; top:60px;}
+.dtnr .list .on .pic{ float:right;}
+.dtnr .list .on .tex{ float:left;}
+.dtnr .list .on .tex span{ position:absolute; right:-13px; left:auto; top:60px; background-position:0 -88px;}
+.dtnr .list .on .yqx{ margin-left:-13px;}
+.dtnr .list .on .yqx h2{ float:left;}
+.dtnr .list .jsy{width:40px; height:40px; margin:0 auto; background:url("../img/dtsy.png")/*tpa=ddpages/img/dtsy.png*/ no-repeat -25px -128px; display:block;}
+.dtnr .lc .pic,.dtnr .lc .pic h2,.dtnr .lc .pic h2 img{border-radius:0%;}
+.dtnr .mev {overflow: hidden; width:164px; margin:40px auto;text-align:center;}
+.dtnr .mev li {height: 44px;line-height: 44px;text-align: center;cursor: pointer;border:1px solid #ccc;color:#5783A9 ;background: #EAEAEA;border-radius:8px;font-size: 22px;}
+.dtnr .mev li a{color:#c8925e}
+
+

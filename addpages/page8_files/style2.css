@@ -1,0 +1,48 @@
+@charset "utf-8";
+/*公用样式*/
+html, body, div,ul, li, dl,ol, dt, dd, h1, h2, h3, h4, h5, h6, form, input, select, button, textarea, iframe { margin: 0; padding: 0; -webkit-text-size-adjust: none; }
+body{font-size:14px;font-family:"微软雅黑";color:#474747;background-color:#ffffff; margin:0; padding:0;}
+table,td{font-size:12px;}
+li,ol{ list-style:none;}
+hr{height:2px;color: #d4d4d4}
+*html{background-image:url(about:blank);background-attachment:fixed;}
+img{ border: 0 none; vertical-align: top; font-weight: normal; font-size: 100%; }
+a{text-decoration:none; color:#545454;outline:none;}
+a:active{star:expression(this.onfocus=this.blur());}
+a:hover{cursor:pointer; color:#135d93}
+a img{border:none;}
+p{margin:0px;}
+.clear{diplay: block!important; float: none!important; clear: both; overflow: hidden; width: auto!important; height: 0!important; margin: 0 auto!important; padding: 0!important; font-size: 0; line-height: 0;}
+.left{float:left;}
+.none{display:none;}
+h1{font-size:20px;font-family:'microsoft yahei'; font-weight:normal;}
+h2{font-size:18px;font-family:'microsoft yahei'; font-weight:normal;}
+h3{font-size:16px;font-family:'microsoft yahei'; font-weight:normal;}
+h4{font-size:14px;font-family:'microsoft yahei'; font-weight:normal;}
+h5{font-size:12px;font-family:'microsoft yahei'; font-weight:normal;}
+h6{font-size:10px;font-family:'microsoft yahei'; font-weight:normal;}
+.mt10{ margin-top:10px !important;}
+.mt15{ margin-top:15px !important;}
+.mt20{ margin-top:20px !important;}
+.mt25{ margin-top:25px !important;}
+.mt30{ margin-top:30px !important;}
+.mt35{ margin-top:35px !important;}
+.mt40{ margin-top:40px !important;}
+.mt45{ margin-top:45px !important;}
+.mt50{ margin-top:50px !important;}
+.mt60{ margin-top:60px !important;}
+.mt65{ margin-top:65px !important;}
+.mt70{ margin-top:70px !important;}
+.mt80{ margin-top:80px !important;}
+.mt90{ margin-top:90px !important;}
+.mt100{ margin-top:100px !important;}
+.mt110{ margin-top:110px !important;}
+.mt120{ margin-top:120px !important;}
+.bt10{ border-top:#F0F0F0 10px solid !important;}
+.w1000{ width:100%!important;}
+.m1920{width:1920px !important; margin:0 auto; }
+.m1210{width:1210px !important; margin:0 auto;}
+.left{float:left;}
+.right{float:right;}
+.container:before{content:" ";display:table;}
+.container:after{content:" ";display:table;clear:both;}

@@ -1,0 +1,162 @@
+.lastPlace .clear::after {
+	clear: both; display: table; content: "";
+}
+.lastPlace .clear::before {
+	clear: both; display: table; content: "";
+}
+.lastPlace .clear {
+	height: auto;
+}
+.lastPlace .box {
+	box-sizing: border-box; -ms-box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; -o-box-sizing: border-box;
+}
+.lastPlace .noNewLine {
+	overflow: hidden; white-space: nowrap; -ms-text-overflow: ellipsis;
+}
+.lastPlace .lf {
+	float: left;
+}
+.lastPlace .rt {
+	float: right;
+}
+.lastPlace a {
+	color: transparent; text-decoration: none;
+}
+.lastPlace img {
+	width: 100%; height: 100%; vertical-align: middle;
+}
+.lastPlace {
+	background-color: rgb(57, 24, 59);
+}
+.lastLinkPlace {
+	text-align: center; line-height: 16px; padding-top: 60px; padding-bottom: 34px; border-bottom-color: rgb(77, 43, 69); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.lastLinkPlace > span {
+	margin: 0px 20px; width: 2px; height: 16px; vertical-align: middle; display: inline-block; background-color: rgb(194, 158, 131);
+}
+.lastLinkPlace > a {
+	color: rgb(194, 158, 131); line-height: 16px; font-size: 16px; vertical-align: middle; display: inline-block;
+}
+.lastTextPlace {
+	text-align: center; padding-top: 34px;
+}
+.lastTopOne {
+	color: rgb(194, 158, 131); font-size: 14px; vertical-align: middle;
+}
+.lastTopTwo {
+	color: rgb(194, 158, 131); font-size: 24px; vertical-align: middle;
+}
+.lastTopModel {
+	text-align: center; color: rgb(194, 158, 131); padding-top: 16px; font-size: 14px;
+}
+.lastTopIcon {
+	top: -3px; width: 15px; height: 17px; margin-right: 6px; display: inline-block; position: relative;
+}
+.topPic {
+	left: 0px; overflow: hidden; position: relative;
+}
+.topPic .topBannerList {
+	left: 0px; width: 400%; position: relative;
+}
+.topPic .item {
+	width: 25%;
+}
+.topPic .item img {
+	
+}
+.topPicBox {
+	overflow: hidden;
+}
+.topBtn {
+	margin: auto 0px; transition:0.3s linear; top: 0px; width: 80px; height: 80px; bottom: 0px; position: absolute; z-index: 3;
+}
+.leftBtn {
+	left: 200px;
+}
+.topPic .leftBtn {
+	background: url("../../res/imgYzPc/topArrowLeft.png")/*tpa=/res/imgYzPc/topArrowLeft.png*/ no-repeat center / 24px 46px rgba(0, 0, 0, 0); opacity: 0;
+}
+.rightBtn {
+	right: 200px;
+}
+.topPic .rightBtn {
+	background: url("../../res/imgYzPc/topArrowRight.png")/*tpa=/res/imgYzPc/topArrowRight.png*/ no-repeat center / 24px 46px rgba(0, 0, 0, 0); opacity: 0;
+}
+.topPic .btnShow {
+	opacity: 1; background-color: rgba(0, 0, 0, 0.6);
+}
+.lastPlaceDetail {
+	margin: 0px auto; width: 1246px; padding-top: 45px; padding-bottom: 86px;
+}
+.lastPlaceList {
+	height: 48px; border-bottom-color: rgb(96, 62, 79); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.lastPlaceList .item {
+	height: 47px; color: rgb(255, 255, 255); line-height: 47px; font-size: 16px; margin-right: 46px; border-bottom-color: transparent; border-bottom-width: 2px; border-bottom-style: solid; cursor: pointer;
+}
+.lastPlaceList .active {
+	border-bottom-color: rgb(194, 158, 131);
+}
+.lastPlaceDetailBox > .item {
+	height: 168px; border-bottom-color: rgb(96, 62, 79); border-bottom-width: 1px; border-bottom-style: solid; display: none;
+}
+.lastPlaceDetailBox > .active {
+	display: block;
+}
+.lastPlaceBottomPic {
+	height: 60px; padding-top: 46px;
+}
+.lastLinkList {
+	padding-top: 20px;
+}
+.lastLinkList .item {
+	width: 150px; line-height: 28px; font-size: 12px;
+}
+.lastLinkList .item a {
+	color: rgb(155, 120, 110);
+}
+.linkListPlace {
+	
+}
+.linkListPlace .item {
+	line-height: 16px; font-size: 16px; margin-right: 46px;
+}
+.linkListPlace .item a {
+	color: rgb(254, 254, 254);
+}
+.addressPlace {
+	padding-top: 28px; padding-bottom: 53px;
+}
+.addressLeft {
+	width: 930px; padding-top: 4px;
+}
+.gaIcon {
+	top: -3px; width: 15px; height: 17px; line-height: 0; display: inline-block; position: relative;
+}
+.addressLeft .addressLeftModel {
+	color: rgb(155, 120, 110); line-height: 26px; font-size: 14px;
+}
+.addressRight {
+	height: 40px; padding-left: 23px; margin-top: 10px; border-left-color: rgb(145, 114, 110); border-left-width: 1px; border-left-style: solid;
+}
+.addressRight .addressRightModel {
+	color: rgb(155, 120, 110); line-height: 14px; font-size: 14px;
+}
+.floating_ck {
+	right: 0px;
+}
+.serviceRightTextDetail a {
+	color: rgb(247, 146, 0);
+}
+.topBarList {
+	margin: 0px auto; left: 0px; width: 296px; height: 6px; right: 0px; bottom: 20px; position: absolute; z-index: 3;
+}
+.topBarList .item {
+	margin: 0px 7px; width: 60px; height: 6px; background-color: rgb(255, 255, 255);
+}
+.topBarList .active {
+	background-color: rgb(240, 168, 65);
+}
+.linkPlace .active {
+	color: rgb(247, 146, 0);
+}

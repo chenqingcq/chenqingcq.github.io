@@ -1,0 +1,14 @@
+.foot{ overflow:hidden; background:#c3864e;min-width: 1210px;}
+.foot .flb{ overflow:hidden; padding:35px 0; color:#FFF; width:1210px; margin:0 auto;}
+.foot .flb .ffd{ float:left; width:380px;}
+.foot .flb .w220{ width:220px;}
+.foot .flb .ewm{ width:220px; text-align:center;}
+.foot .flb .ewm h4{ width:108px; height:108px; margin:0 auto 20px;}
+.foot .flb .ewm h4 img{ width:108px; height:108px;}
+.foot .flb .ffd ul{ overflow:hidden;}
+.foot .flb .ffd ul a{color:#FFF;}
+.foot .flb .ffd ul a:hover{text-decoration:underline;}
+.foot .flb .ffd ul li{line-height:28px;}
+.foot .flb .ffd ul h3{font-size:18px; margin-bottom:35px; font-weight:600;}
+.foot .fbq{ overflow:hidden; background:#3D3D3D; font-size:12px;color:#FFF; padding:30px 0; overflow:hidden;}
+.foot .fbq p{ text-align:center; line-height:24px;}

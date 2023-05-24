@@ -1,0 +1,103 @@
+.h20{ height:20px; overflow:hidden;}
+.head{ height:86px; width:100%; background:#c3864e; min-width:1210px; left:0; z-index:9999; position:relative;}
+	
+.sticky{position: fixed;top: 0;}
+.head .zsykd{ margin:0 auto; min-width:1210px; max-width:1425px;}
+.head .logo{ width:222px; height:86px; float:left; display:block; position:relative; overflow:hidden;}
+.head .logo a{ display:block;width:222px; height:86px;overflow:hidden;}
+.head .logo em{ width:61px; height:61px; display:block; background: url("../../images/190228.png")/*tpa=/images/190228.png*/ no-repeat; position:absolute; left:0; top:-61px; -webkit-animation-name: emlogo;animation-name: emlogo;-webkit-animation-duration: 2s;  animation-duration: 2s;  -webkit-animation-fill-mode: forwards ;  animation-fill-mode: forwards ; -webkit-animation-delay:0.1s;  /**延迟动画**/animation-delay:0.1s;}
+.head .logo i{ background:#F00; width:20px; height:20px; display:block; float:left; background: url("../../images/190228.png")/*tpa=/images/190228.png*/ no-repeat; position:absolute; top:-20px; left:0;
+-webkit-animation-name: sx;animation-name: sx;-webkit-animation-duration: 1s;  animation-duration: 1s;  -webkit-animation-fill-mode: forwards ;  animation-fill-mode: forwards ;
+}
+.head .logo span{ width:160px; height:19px; display:block; position:absolute; right:-160px; bottom:16px; background: url("../../images/190228.png")/*tpa=/images/190228.png*/ no-repeat -63px -37px;
+-webkit-animation-name: rz;animation-name: rz;-webkit-animation-duration: 2s;  animation-duration: 2s;  -webkit-animation-fill-mode: forwards ;  animation-fill-mode: forwards ;
+-webkit-animation-delay:1.5s;  /**延迟动画**/animation-delay:1.5s;
+}
+.head .logo .b{ background-position:-64px -17px; left:61px;
+-webkit-animation-delay:0.3s;  /**延迟动画**/animation-delay:0.3s;
+}
+.head .logo .j{ background-position:-84px -17px;left:81px;
+-webkit-animation-delay:0.6s;  /**延迟动画**/animation-delay:0.6s;
+}
+.head .logo .h{ background-position:-104px -17px;left:101px;
+-webkit-animation-delay:0.9s;  /**延迟动画**/animation-delay:0.9s;
+}
+.head .logo .f{ background-position:-123px -17px;left:121px;
+-webkit-animation-delay:1.2s;  /**延迟动画**/animation-delay:1.2s;
+}
+.head .logo .fu{ background-position:-144px -17px;left:141px;
+-webkit-animation-delay:1.5s;  /**延迟动画**/animation-delay:1.5s;
+}
+.head .logo .er{ background-position:-163px -17px;left:161px;
+-webkit-animation-delay:1.8s;  /**延迟动画**/animation-delay:1.8s;
+}
+.head .logo .yi{ background-position:-183px -17px;left:181px;
+-webkit-animation-delay:2.1s;  /**延迟动画**/animation-delay:2.1s;
+}
+.head .logo .yuan{ background-position:-202px -17px;left:201px;
+-webkit-animation-delay:2.4s;  /**延迟动画**/animation-delay:2.4s;
+}
+
+@-webkit-keyframes rz {
+    0% { right: -160px}
+    80% {right: 0px}
+    100% {right: 0px}
+}
+@-webkit-keyframes sx {
+    0% { top: -200px}
+    80% {top: 29px}
+    100% {top: 29px}
+}
+@-webkit-keyframes emlogo {
+    0% { top: -61px}
+    80% {top: 12px}
+    100% {top: 12px}
+}
+.head .hfdh{ color:#f7d9be; width:825px; float: right; text-align:center; margin-top:20px;}
+.head .hfdh ul li{ float:left;line-height:25px; height:62px; width:117px; box-sizing:initial!important; }
+.head .hfdh ul li h3{ font-size:18px; font-weight: normal; font-style:normal;}
+.head .hfdh ul li h4{ font-size:14px; font-weight: normal; font-style:normal;}
+.head .hfdh ul li a{ color:#f7d9be; display:block;}
+.head .zsykd:hover li{border-bottom: 0px solid #fff;}
+.head .zsykd:hover li>a{ color:#f7d9be !important;}
+
+.head .hfdh ul li:hover a{ color:#fff; }
+.head .hfdh ul li:hover{border-bottom: 4px solid #fff;}
+.head .hfdh .on{border-bottom: 4px solid #fff; background:none!important;}
+.head .hfdh .on a{ color:#fff; }
+.head .hfzy{width:117px;}
+
+.head .hfdh .xlcd{ margin-top:16px;  z-index:9999; width:100%; position:relative; text-align: left; height:0px; overflow:hidden;
+transition:height 0.5s;
+-moz-transition:height 0.5s; /* Firefox 4 */
+-webkit-transition:height 0.5s; /* Safari and Chrome */
+-o-transition:height 0.5s; /* Opera */ 
+}
+.head .hfdh ul li:hover .xlcd { background:#fff;/* background color for IE */
+filter: alpha(opacity=60); /* opacity filter for IE */
+background-color: rgba(255,255,255, 0.6); /* for other browsers */ }
+.head .hfdh ul li:hover .xlcd dl { }
+
+.head .hfdh .xlcd dl{ border-left: 1px solid #D9DADB; padding:4px 0 16px 0px; height:190px; width:100%; margin:20px 0; }
+.head .hfdh .xlcd dl dt{ line-height:30px; padding:0 0 0 20px;}
+.head .hfdh .xlcd dl dt:hover{ padding:0 0 0 35px;}
+.head .hfdh .xlcd dl dt a{ color:#717171;}
+.head .hfdh .xlcd dl dt a:hover{ color:#c8925e;}
+
+
+.head .hfrx{ width:181px; height:42px; float:right; display:block; background: url("../../images/190228.png")/*tpa=/images/190228.png*/ no-repeat 0 -68px;margin:22px 0 0 40px; display:none;}
+.head .cdbg{ width:100%; height:0px;position:absolute; left:0; top:86px;z-index: 999;
+background:#fff;/* background color for IE */
+filter: alpha(opacity=60); /* opacity filter for IE */
+background-color: rgba(255,255,255, 0.6); /* for other browsers */ 
+transition:height 0.5s;
+-moz-transition:height 0.5s; /* Firefox 4 */
+-webkit-transition:height 0.5s; /* Safari and Chrome */
+-o-transition:height 0.5s; /* Opera */ 
+}
+.head .hfdh:hover .cdbg,.head .hfdh:hover .xlcd{ height:250px;}
+
+/* 热线电话适应去除 */
+@media screen and (min-width: 1425px) {
+.head .hfrx{ display: block;}
+}

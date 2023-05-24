@@ -1,0 +1,561 @@
+body {
+	list-style: none; margin: 0px; padding: 0px;
+}
+ul {
+	list-style: none; margin: 0px; padding: 0px;
+}
+p {
+	list-style: none; margin: 0px; padding: 0px;
+}
+h1 {
+	list-style: none; margin: 0px; padding: 0px;
+}
+h2 {
+	list-style: none; margin: 0px; padding: 0px;
+}
+h3 {
+	list-style: none; margin: 0px; padding: 0px;
+}
+h4 {
+	list-style: none; margin: 0px; padding: 0px;
+}
+h5 {
+	list-style: none; margin: 0px; padding: 0px;
+}
+h6 {
+	list-style: none; margin: 0px; padding: 0px;
+}
+html {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+body {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+div {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+span {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+applet {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+object {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+iframe {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+p {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+blockquote {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+pre {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+a {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+abbr {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+acronym {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+address {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+big {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+cite {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+code {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+del {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+dfn {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+em {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+font {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+img {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+ins {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+kbd {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+q {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+s {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+samp {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+small {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+strike {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+strong {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+sub {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+sup {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+tt {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+var {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+dl {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+dt {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+dd {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+ol {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+ul {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+li {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+fieldset {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+form {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+label {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+legend {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+table {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+caption {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+tbody {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+tfoot {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+thead {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+tr {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+th {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+td {
+	margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+body {
+	font: 14px/1.5 "Microsoft YaHei", "Microsoft JhengHei"; font-size-adjust: none; font-stretch: normal;
+}
+button {
+	font: 14px/1.5 "Microsoft YaHei", "Microsoft JhengHei"; font-size-adjust: none; font-stretch: normal;
+}
+input {
+	font: 14px/1.5 "Microsoft YaHei", "Microsoft JhengHei"; font-size-adjust: none; font-stretch: normal;
+}
+select {
+	font: 14px/1.5 "Microsoft YaHei", "Microsoft JhengHei"; font-size-adjust: none; font-stretch: normal;
+}
+textarea {
+	font: 14px/1.5 "Microsoft YaHei", "Microsoft JhengHei"; font-size-adjust: none; font-stretch: normal;
+}
+body {
+	font-family: "΢���ź�";
+}
+.main .clear::after {
+	clear: both; display: table; content: "";
+}
+.main .box {
+	box-sizing: border-box; -ms-box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; -o-box-sizing: border-box;
+}
+.main .noNewLine {
+	overflow: hidden; white-space: nowrap; -ms-text-overflow: ellipsis;
+}
+.main .lf {
+	float: left;
+}
+.main .rt {
+	float: right;
+}
+.main a {
+	text-decoration: none;
+}
+.main img {
+	width: 100%; height: 100%; vertical-align: middle;
+}
+.main .topIntr {
+	margin: 0px auto; width: 1000px; padding-top: 30px; padding-bottom: 40px;
+}
+.main .topIntr .intrHospital {
+	width: 183px; height: 131px;
+}
+.main .topIntr .intrDetail {
+	width: 790px;
+}
+.main .topIntr .intrDetail .intrTitle {
+	color: rgb(76, 32, 77); padding-top: 13px; font-size: 18px; font-weight: bold;
+}
+.main .topIntr .intrDetail .intrText {
+	color: rgb(51, 51, 51); line-height: 24px; padding-top: 14px; font-size: 14px;
+}
+.main .lineBar {
+	height: 0px; border-top-color: rgb(233, 233, 233); border-top-width: 1px; border-top-style: solid;
+}
+.main .lineBarLine {
+	margin: 0px auto; top: -1px; width: 66px; height: 2px; position: relative; background-color: rgb(236, 165, 61);
+}
+.main .nsyz {
+	margin: 0px auto 70px; padding: 1px; border-radius: 8px; border: 1px dashed rgb(233, 233, 233); border-image: none; width: 1196px;
+}
+.main .nsyz .nsPic {
+	width: 452px; height: 293px;
+}
+.main .bigTitle {
+	text-align: center; color: rgb(51, 51, 51); padding-top: 42px; padding-bottom: 46px; font-size: 36px;
+}
+.main .nsDetail {
+	width: 710px; color: rgb(51, 51, 51); line-height: 24px; padding-top: 27px; font-size: 14px;
+}
+.main .nsText {
+	padding-top: 9px;
+}
+.main .nsDetail .nsTextItem {
+	width: 50px;
+}
+.main .nsDetail .nsTextDetail {
+	width: 616px;
+}
+.main .nsDetail .nsTextSpan {
+	border-radius: 26px; border: 1px solid rgb(236, 165, 61); border-image: none; width: 86px; height: 26px; text-align: center; color: rgb(236, 165, 61); line-height: 26px; margin-right: 10px; display: inline-block;
+}
+.main .smallPicList {
+	margin: 0px auto; width: 462px; padding-bottom: 40px;
+}
+.main .smallPicList .item {
+	margin: 0px 20px; border: 3px solid rgb(229, 229, 229); border-image: none; width: 108px; height: 66px; cursor: pointer;
+}
+.main .smallPicList li.active {
+	border-color: rgb(236, 165, 61);
+}
+.main .bannerPlace {
+	margin: 0px auto; width: 1200px; padding-bottom: 70px; position: relative;
+}
+.main .bannerPlace .bannerBox {
+	background: url("../../res/imgnsyz/nsBg.png")/*tpa=/res/imgnsyz/nsBg.png*/ no-repeat 0% 0% / 100% 100%; margin: 0px auto; border-radius: 8px; width: 1000px; height: 373px; overflow: hidden;
+}
+.main .bannerPlace .bannerBox .bannerList li {
+	display: none;
+}
+.main .bannerPlace .bannerBox .bannerList li.active {
+	display: block;
+}
+.main .bannerPlace .bannerBox .momPic {
+	width: 336px; height: 373px; margin-right: 30px;
+}
+.main .bannerPlace .bannerBox .momDetail {
+	width: 634px; padding-top: 30px; padding-bottom: 34px;
+}
+.main .bannerPlace .bannerBox .momDetail .momTextPic {
+	width: 613px; height: 40px;
+}
+.main .bannerPlace .bannerBox .momDetail .name {
+	color: rgb(51, 51, 51); padding-top: 10px; padding-bottom: 18px; font-size: 24px;
+}
+.main .bannerPlace .bannerBox .momDetail .name .englishName {
+	color: rgb(204, 204, 204); font-size: 18px; margin-left: 14px;
+}
+.main .bannerPlace .bannerBox .momDetail .offer {
+	color: rgb(51, 51, 51); padding-bottom: 17px; font-size: 14px;
+}
+.main .bannerPlace .bannerBox .momDetail .momSay {
+	color: rgb(51, 51, 51); line-height: 24px; padding-bottom: 34px; font-size: 14px;
+}
+.main .bannerPlace .bannerBox .momDetail .momSayItem {
+	width: 58px;
+}
+.main .bannerPlace .bannerBox .momDetail .momSayDetail {
+	width: 553px;
+}
+.main .bannerPlace .bannerBox .momBtn {
+	border-radius: 40px; width: 127px; height: 40px; text-align: center; line-height: 40px; font-size: 16px; display: inline-block;
+}
+.main .bannerPlace .bannerBox .first {
+	color: rgb(252, 215, 161); margin-right: 20px; background-color: rgb(75, 31, 76);
+}
+.main .bannerPlace .bannerBox .second {
+	color: rgb(255, 255, 255); background-color: rgb(236, 165, 61);
+}
+.main .bannerPlace .bannerBtn {
+	top: 0px; width: 100px; height: 373px; position: absolute;
+}
+.main .bannerPlace .left {
+	background: url("../../res/imgnsyz/arrowLeft.png")/*tpa=/res/imgnsyz/arrowLeft.png*/ no-repeat center; left: 0px;
+}
+.main .bannerPlace .right {
+	background: url("../../res/imgnsyz/arrowRight.png")/*tpa=/res/imgnsyz/arrowRight.png*/ no-repeat center; right: 0px;
+}
+.main .photoShow {
+	margin: 0px auto 90px; width: 1200px; position: relative;
+}
+.main .photoShow .photoPic .item {
+	width: 33.33%; border-right-color: rgb(255, 255, 255); border-bottom-color: rgb(255, 255, 255); border-right-width: 1px; border-bottom-width: 1px; border-right-style: solid; border-bottom-style: solid;
+}
+.main .photoShow .middleDetailBox {
+	margin: auto; border-radius: 100%; left: 0px; top: 0px; width: 230px; height: 230px; right: 0px; bottom: 0px; position: absolute; background-color: rgba(251, 237, 216, 0.5);
+}
+.main .photoShow .middleDetail {
+	margin: auto; border-radius: 100%; left: 0px; top: 0px; width: 204px; height: 204px; right: 0px; bottom: 0px; color: rgb(255, 255, 255); position: absolute; background-color: rgb(236, 165, 61);
+}
+.main .photoShow .middleDetail .middleTitle {
+	text-align: center; padding-top: 60px; font-size: 24px;
+}
+.main .photoShow .middleDetail .middleList {
+	padding-top: 9px; padding-bottom: 24px; padding-left: 15px; font-size: 14px;
+}
+.main .photoShow .middleDetail .middleList .middle {
+	margin: 0px 13px;
+}
+.main .photoShow .middleDetail .smallPointer {
+	top: -4px; width: 2px; height: 2px; margin-right: 5px; display: inline-block; position: relative; background-color: rgb(255, 255, 255);
+}
+.main .photoShow .smallBar {
+	margin: 0px auto; width: 30px; border-top-color: rgb(255, 255, 255); border-top-width: 1px; border-top-style: solid;
+}
+.main .heartService {
+	margin: 0px auto; width: 1200px; padding-bottom: 60px;
+}
+.main .heartService .item {
+	border-radius: 8px; border: 1px dashed rgb(230, 230, 230); border-image: none; width: 568px; padding-top: 30px; padding-bottom: 24px;
+}
+.main .heartService .heartDetail {
+	margin: 0px auto; width: 508px;
+}
+.main .heartService .heartDetail .heartPic {
+	height: 280px;
+}
+.main .heartService .heartTitle {
+	color: rgb(76, 32, 77); padding-top: 12px; padding-bottom: 7px; font-size: 16px; font-weight: bold;
+}
+.main .heartService .heartText {
+	color: rgb(51, 51, 51); line-height: 24px; font-size: 14px;
+}
+.main .heartService .headItem {
+	margin-bottom: 40px;
+}
+.main .funcRoom {
+	margin: 0px auto; width: 1200px; padding-bottom: 70px;
+}
+.main .funcRoom .funcModel {
+	padding: 1px; border-radius: 8px; border: 1px dashed rgb(230, 230, 230); border-image: none; margin-bottom: 30px;
+}
+.main .funcRoom .funcPic {
+	width: 371px; height: 247px;
+}
+.main .funcRoom .funcDetail {
+	width: 758px; margin-left: 30px;
+}
+.main .funcRoom .funcDetail .funcTitle {
+	color: rgb(76, 32, 77); padding-top: 27px; padding-bottom: 11px; font-size: 22px;
+}
+.main .funcRoom .funcDetail .funcTitle .funcStar {
+	padding: 2px 16px 1px; margin-right: 7px;
+}
+.main .funcRoom .funcDetail .funcTitle .first {
+	background: url("../../res/imgnsyz/starNum1.png")/*tpa=/res/imgnsyz/starNum1.png*/ no-repeat center;
+}
+.main .funcRoom .funcDetail .funcTitle .second {
+	background: url("../../res/imgnsyz/starNum2.png")/*tpa=/res/imgnsyz/starNum2.png*/ no-repeat center;
+}
+.main .funcRoom .funcDetail .funcTitle .third {
+	background: url("../../res/imgnsyz/starNum3.png")/*tpa=/res/imgnsyz/starNum3.png*/ no-repeat center;
+}
+.main .funcRoom .funcDetail .funcTitle .forth {
+	background: url("../../res/imgnsyz/starNum4.png")/*tpa=/res/imgnsyz/starNum4.png*/ no-repeat center;
+}
+.main .funcRoom .funcDetail .funcText {
+	color: rgb(51, 51, 51); line-height: 24px; padding-bottom: 24px; font-size: 14px;
+}
+.main .funcRoom .funcDetail .funcBtn {
+	border-radius: 32px; width: 102px; height: 32px; text-align: center; color: rgb(255, 255, 255); line-height: 32px; font-size: 14px; display: inline-block; background-color: rgb(236, 165, 61);
+}
+.main .funcRoom .last {
+	margin-bottom: 0px;
+}
+.main .nsNavBar {
+	margin: 0px auto; border-radius: 42px; width: 468px; height: 42px; text-align: center; line-height: 42px; background-color: rgb(245, 245, 245);
+}
+.main .nsNavBar li {
+	border-radius: 42px; transition:0.3s linear; width: 40%; color: rgb(51, 51, 51); cursor: pointer; background-color: rgb(245, 245, 245); -webkit-transition: all 0.3s linear; -moz-transition: all 0.3s linear; -o-transition: all 0.3s linear;
+}
+.main .nsNavBar li.active {
+	width: 60%; color: rgb(255, 255, 255); background-color: rgb(236, 164, 61);
+}
+.main .nsNavDetail {
+	margin: 0px auto; width: 1200px; padding-top: 40px; padding-bottom: 70px;
+}
+.main .nsNavDetail > ul {
+	display: none;
+}
+.main .nsNavDetail > ul.active {
+	display: block;
+}
+.main .nsNavList li {
+	width: 360px; height: 230px; position: relative;
+}
+.main .nsNavList li.nsTop {
+	margin-bottom: 50px;
+}
+.main .nsNavList li.middle {
+	margin: 0px 60px;
+}
+.main .nsNavList .picText {
+	padding: 5px 12px; left: 0px; right: 0px; bottom: 0px; color: rgb(255, 255, 255); line-height: 16px; font-size: 14px; position: absolute; background-color: rgba(0, 0, 0, 0.3);
+}
+.main .nsNavList .picText a {
+	color: rgb(255, 255, 255);
+}
+.main .nsNavList .picText a:hover {
+	text-decoration: underline;
+}
+.main .nsNavDetail .nsNavBtnPlace {
+	text-align: center; padding-top: 30px;
+}
+.main .nsNavDetail .nsNavBtn {
+	border-radius: 40px; width: 127px; height: 40px; line-height: 40px; display: inline-block;
+}
+.main .nsNavDetail .first {
+	color: rgb(252, 215, 161); margin-right: 10px; background-color: rgb(75, 31, 76);
+}
+.main .nsNavDetail .second {
+	color: rgb(255, 255, 255); margin-left: 10px; background-color: rgb(236, 165, 61);
+}
+.main .andPicShow {
+	margin: 0px auto; width: 1200px;
+}
+.main .andPicShow li {
+	width: 355px; height: 229px; position: relative;
+}
+.main .andPicShow li.middle {
+	margin: 0px 68px 0px 67px;
+}
+.main .andPicShow .picText {
+	left: 0px; text-align: center; right: 0px; bottom: 0px; line-height: 40px; font-size: 18px; position: absolute; background-color: rgba(0, 0, 0, 0.5);
+}
+.main .andPicShow .picText a {
+	color: rgb(255, 255, 255);
+}
+.main .andPicShow .picText a:hover {
+	text-decoration: underline;
+}
+.main .dataInAnd {
+	margin: 0px auto; width: 1200px; padding-bottom: 58px;
+}
+.main .dataInAnd .dataTitle {
+	text-align: center; color: rgb(51, 51, 51); line-height: 40px; padding-top: 44px; padding-bottom: 19px; font-size: 24px;
+}
+.main .dataInAnd .dataTitle a {
+	padding: 0px 10px; color: rgb(51, 51, 51); display: inline-block;
+}
+.main .dataInAnd .dataTitle a.active {
+	border-radius: 40px; color: rgb(253, 215, 161); background-color: rgb(74, 30, 76);
+}
+.main .dataInAnd .dataListBox > ul {
+	display: none;
+}
+.main .dataInAnd .dataListBox > ul.active {
+	display: block;
+}
+.main .dataInAnd .dataList {
+	font-size: 14px;
+}
+.main .dataInAnd .dataList li {
+	width: 33.33%; text-align: left; line-height: 34px; overflow: hidden; white-space: nowrap; -ms-text-overflow: ellipsis;
+}
+.main .dataInAnd .dataList li .smallPointer {
+	top: -3px; width: 3px; height: 3px; margin-right: 6px; display: inline-block; position: relative; background-color: rgb(51, 51, 51);
+}
+.main .dataInAnd .dataList a {
+	color: rgb(51, 51, 51);
+}
+.main .dataInAnd .dataList a:hover {
+	text-decoration: underline;
+}
+.main .dataLine {
+	padding-top: 33px; border-top-color: rgb(233, 233, 233); border-top-width: 1px; border-top-style: solid;
+}
+.main .momDiguss .momDigussTitle {
+	text-align: center; color: rgb(51, 51, 51); font-size: 24px;
+}
+.momDiguss {
+	padding-bottom: 72px;
+}
+.momDiguss .liuyan {
+	margin-top: 32px;
+}
+.momDiguss .liuyan textarea {
+	border: 1px solid rgb(204, 204, 204); border-image: none; width: 880px; height: 100px; font-size: 20px; vertical-align: middle; box-sizing: border-box; background-color: rgb(247, 247, 247); -ms-box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; -o-box-sizing: border-box; resize: none;
+}
+.momDiguss .liuyan button {
+	border: currentColor; border-image: none; top: 2px; width: 100px; height: 100px; text-align: center; color: rgb(254, 254, 254); line-height: 100px; position: relative; cursor: pointer; background-color: rgb(236, 164, 61);
+}
+.liuyanDetail {
+	padding-top: 19px;
+}
+.liuyanDetail li {
+	padding-top: 25px; padding-bottom: 27px; padding-left: 4px; border-bottom-color: rgb(229, 229, 229); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.liuyanDetail .userPic {
+	width: 60px; height: 60px; margin-right: 16px;
+}
+.liuyanDetail .liuyanTitle {
+	width: 900px; padding-top: 8px; padding-bottom: 6px;
+}
+.liuyanDetail .liuyanTitle span {
+	background: url("../../res/imgs/star.png")/*tpa=/res/imgs/star.png*/ no-repeat center; top: 2px; width: 84px; height: 14px; margin-left: 13px; display: inline-block; position: relative;
+}
+.liuyanDetailText {
+	width: 900px; line-height: 28px; font-size: 14px;
+}
+.liuyanModel {
+	margin: auto; border-radius: 100%; transition:opacity 1s linear; left: 0px; top: 0px; width: 300px; height: 100px; text-align: center; right: 0px; bottom: 0px; color: rgb(255, 255, 255); line-height: 100px; font-size: 30px; position: fixed; opacity: 0; background-color: rgb(0, 0, 0);
+}
+.main .momDiguss {
+	margin: 0px auto; width: 980px;
+}

@@ -1,0 +1,16 @@
+/**lxwm**/
+.lxwm{ overflow:hidden;}
+
+.lxwm .lx{ overflow:hidden;}
+.lxwm .lx .xx{ overflow:hidden; float:left; width:940px;}
+.lxwm .lx .xx ul{ overflow:hidden; }
+.lxwm .lx .xx ul li{ float:left; width:220px; margin:45px 0 0 40px; padding-left:50px; background:url("../img/lxwmst.png")/*tpa=src="./addpagesddpages/img/lxwmst.png*/ no-repeat; }
+.lxwm .lx .xx ul li h3{ font-size:18px; color:#c3864e; font-weight:600;}
+.lxwm .lx .xx ul li p{ line-height:30px; font-size:16px; color:#585757; }
+.lxwm .lx .ewm{ overflow:hidden; float:right; width:240px; margin:30px 30px 0 0;}
+.lxwm .lx .xx .dh{ background-position:0 35px;}
+.lxwm .lx .xx .yp{ background-position:0 -75px;}
+.lxwm .lx .xx .dz{ background-position:0 -185px;}
+.lxwm .lx .xx .zj{ background-position:0 -285px;}
+.lxwm .lx .xx .gj{ background-position:0 -392px;}
+.lxwm .lx .xx .dt{ background-position:0 -500px;}

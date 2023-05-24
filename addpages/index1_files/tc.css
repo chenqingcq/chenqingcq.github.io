@@ -1,0 +1,32 @@
+
+.tc{ overflow:hidden;width:100%; height:100%; display:none;}
+.tc .tbg{ width:100%; height:100%; position:fixed; top:0; left:0; z-index:9998;background:#000;/* background color for IE */
+filter: alpha(opacity=50); /* opacity filter for IE */
+background-color: rgba(0,0,0, 0.5); /* for other browsers */}
+.tc .txx{ width:546px; height:556px; overflow:hidden; border-radius: 5px; position:fixed;top:50%; left:50%; margin:-278px 0 0 -273px; z-index:9999;background:#fff;/* background color for IE */
+filter: alpha(opacity=80); /* opacity filter for IE */
+background-color: rgba(255,255,255, 0.8); /* for other browsers */}
+.tc .txx .gban{ width:100%;overflow:hidden;}
+.tc .txx .gban span{width:31px; height:31px;display:block; float:right; margin:12px 12px; background:url("../img/gban.png")/*tpa=src="./addpagesddpages/img/gban.png*/ no-repeat; cursor:pointer; }
+.tc .txx .tnr{ padding:0 80px;overflow:hidden;}
+.tc .txx .tnr .tex{ position:relative; margin-bottom:20px;}
+.tc .txx .tnr .tex span{ width:60px; line-height:44px;position:absolute;}
+.tc .txx .tnr .tex input{width:250px;height: 20px;line-height: 20px;font-size: 14px;color: #666;background-color:#fff; outline:none;-moz-border-radius: 8px; -webkit-border-radius: 8px; border-radius: 8px; margin-left:70px; padding:10px; border:1px solid #A9A9A9;}
+.tc .txx .tnr .tex textarea{width:250px;height: 100px;line-height: 20px;font-size: 14px;color: #666;background-color:#fff; outline:none;-moz-border-radius: 8px; -webkit-border-radius: 8px; border-radius: 8px; margin-left:70px; padding:10px; border:1px solid #A9A9A9;}
+.tc .txx .tnr .tj{ width:343px; height:41px;}
+.tc .txx .tnr .tj .lb{ float:left; position:relative;}
+.tc .txx .tnr .tj .lb input{width:42px;height: 20px;line-height: 20px;font-size: 14px;color: #666;background-color:#fff; outline:none;-moz-border-radius: 8px; -webkit-border-radius: 8px; border-radius: 8px; margin-left:70px; padding:10px 77px 10px 10px; border:1px solid #A9A9A9;}
+.tc .txx .tnr .tj .lb em{ position:absolute; right:5px;top:9px; cursor:pointer;}
+.tc .txx .tnr .tj .rb{ float:right; width:125px;}
+.tc .txx .tnr .tj .rb input{cursor:pointer; font-size: 14px;color: #fff;background-color:#135D93; outline:none;-moz-border-radius: 8px; -webkit-border-radius: 8px; border-radius: 8px;  line-height:38px; text-align:center; border:none;border:0;outline:none;width:125px; height:41px;}
+.tc .ts{ text-align:center; text-indent:3em; padding-top:40px;}
+.tc .bz{ height:60px; background:#FFF; width:100%; position:absolute; bottom:0; left:0; text-align:center; font-size:12px;}
+.tc .bz li{ float:left; width:33%; margin:6px 0; width:150px;}
+.tc .bz li h2{ width:27px; height:25px; margin:0 auto; background:url("../img/gban.png")/*tpa=src="./addpagesddpages/img/gban.png*/ no-repeat;}
+.tc .bz li p{ padding-top:6px;}
+.tc .bz .dh{ background-position:0 -41px;}
+.tc .bz .dh h2{ background-position:0 -41px;}
+.tc .bz .dz{ background-position:0 -75px; border-right:1px solid #A0A0A0; border-left:1px solid #A0A0A0; width:244px;}
+.tc .bz .dz h2{ background-position:0 -75px;}
+.tc .bz .wx{ background-position:0 -108px;}
+.tc .bz .wx h2{ background-position:0 -108px;}
